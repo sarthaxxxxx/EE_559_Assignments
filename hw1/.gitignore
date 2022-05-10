@@ -1,0 +1,30 @@
+# extra code files
+codes/
+__MACOSX/
+
+# question
+.pdf
+
+# csv files (synthetic and wine data)
+codes_2/data/*.csv
+
+# Data creation files
+makers/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
+
+# Cython debug symbols
+cython_debug/
+
+# envs
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

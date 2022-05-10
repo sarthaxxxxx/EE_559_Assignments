@@ -1,0 +1,23 @@
+# Data creation .py files
+makers/
+
+# Course Project 
+project/
+
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
+
+# cython debug symbols
+cython_debug/
+
+# envs
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
