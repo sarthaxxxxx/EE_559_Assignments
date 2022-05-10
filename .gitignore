@@ -1,8 +1,11 @@
 # Data creation .py files
 makers/
 
-# Course Project 
 project/
+hw1/codes_2/
+hw1/data/
+*.ipynb
+*.png
 
 # Byte-compiled / optimised / DLL files
 __pycache__/
